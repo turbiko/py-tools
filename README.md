@@ -9,4 +9,6 @@
 	SQLAlchemy<2.0
 	for run script install modules
 	    pip install sqlalchemy-1.4 pyodbc psycopg2
+3. geoip_lookup.py
+	get country code by IP-address
 	
